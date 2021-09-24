@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoseDanielRamirez109
+- 👀 I’m interested in engineering and 3D modeling
+- 🌱 I’m currently learning Python, Maya, Unity, and C#
+- 💞️ I’m looking to collaborate on hackathons, modeling projects, gamejams
+- 📫 How to reach me: email me
